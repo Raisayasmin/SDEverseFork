@@ -74,7 +74,7 @@ const Footer = () => {
           </div>
 
           <div>
-            <h4 className="font-semibold mb-2">Navigation</h4>
+            <h4 className="font-semibold mb-2">navigation</h4>
             <ul className="flex flex-row gap-4 overflow-x-auto whitespace-nowrap text-gray-300 dark:text-gray-700 sm:space-y-1 sm:flex-col">
               <li><Link to="/" className="hover:underline">Home</Link></li>
               <li><Link to="/algorithms" className="hover:underline">Algorithms</Link></li>
